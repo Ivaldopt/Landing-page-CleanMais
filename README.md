@@ -1,4 +1,4 @@
-#**Bem-vindo à Landing Page CleanMais**#
+## Bem-vindo à Landing Page CleanMais
 
 Esta é uma landing page desenvolvida utilizando HTML, CSS e JavaScript. Neste documento README, fornecerei uma visão geral do projeto, suas funcionalidades e como você pode contribuir para ele. Além disso, discutirei planos futuros para a incorporação de bibliotecas.
 
